@@ -8,3 +8,4 @@ Day 1: 파이썬 기초
 Day 2: 딥러닝 개론, 선형회귀-최소제곱법   
 Day 3: 평균제곱근오차(RMSE), 경사하강법 실습   
 Day 4: Numpy실습, Tensorflow 기초   
+Day 5: 다중 선형회귀 실습   
